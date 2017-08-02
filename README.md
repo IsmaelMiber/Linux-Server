@@ -1,9 +1,9 @@
 # IP & SSH Port:
-  # IP: 35.184.141.65
+  # IP: 35.193.5.115
   # SSH port: 2200
   
 # Hosted Web Application:
-  http://35.184.141.65
+  http://35.193.5.115/
 
 # Software
   I installed ubuntu trusty.
