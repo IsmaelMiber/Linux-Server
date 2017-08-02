@@ -1,5 +1,5 @@
 # IP & SSH Port:
-  127.0.0.1 -p 2200
+  35.184.141.65 -p 2200
   
 # Hosted Web Application:
   http://35.184.141.65
